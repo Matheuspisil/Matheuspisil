@@ -2,7 +2,7 @@
 ###<h1>  Olá, sou Matheus Pires  👋 </h1>
 <hr>
 <h2>
-Sou recém graduado em analise e desenvolvimento de sistemas, estou #opentowork preferencialmente para projetos front-end.<br>
+Sou recém graduado em analise e desenvolvimento de sistemas, estou #opentowork! preferencialmente para projetos front-end.<br>
   
 - :coffee: Atualmente, trabalho no meu portfolio e fazendo freela's para conhecidos. (que estarão disponíveis aqui mediante autoriazação.)<br>
   
