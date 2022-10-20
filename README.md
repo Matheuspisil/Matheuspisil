@@ -7,7 +7,7 @@ Sou recém graduado em analise e desenvolvimento de sistemas, estou #opentowork 
 
 
 - :world_map: links úteis relacionados ao meu desenvolver. 
-liked-in
+liked-in https://img.shields.io/badge/LinkedIn-78753586?style=for-the-badge&logo=linkedin&logoColor=white
 - :airplane: https://www.linkedin.com/in/matheus-pires-78753586/
 Site demo portfolio  
 - :crescent_moon: https://loquacious-hummingbird-b4d3e1.netlify.app/
