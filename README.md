@@ -4,7 +4,7 @@
 <h2>
 Recém graduado em análise e desenvolvimento de sistemas estou, #opentowork! preferencialmente para projetos front-end.<br>
   
-- :coffee: Atualmente, trabalho no meu portfolio e fazendo freela's para conhecidos. (que estarão disponíveis aqui mediante autoriazação.)<br>
+- :coffee: Atualmente, trabalho no meu portfolio e fazendo freelas.<br>
   
 - 🌱 Aprendendo back-end para afinar as minhas skills com relação ao desenvolvimento web.<br>
   
