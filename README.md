@@ -17,6 +17,6 @@ Sou recém graduado em analise e desenvolvimento de sistemas, estou #opentowork 
 
 - :crescent_moon: <a href="https://loquacious-hummingbird-b4d3e1.netlify.app/">Portfolio</a>
 
-- :1st_place_medal: MatheusPiresesilva@gmail.com
+- :1st_place_medal: matheuspiresesilva@gmail.com
 
 </h2>
