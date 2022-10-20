@@ -11,7 +11,7 @@ Sou recém graduado em analise e desenvolvimento de sistemas, estou #opentowork 
 - 🤝 Estou a procura de parcerias para melhorar minhas skills e colaborar com doses de cooperação jamais vista.<br> 
 <hr>
 
-- :world_map: links úteis relacionados ao desenvolvedor. 
+:world_map: links úteis relacionados ao desenvolvedor. 
 
 - :airplane:  <a href="https://www.linkedin.com/in/matheus-pires-78753586/">LinkedIn</a>
 
