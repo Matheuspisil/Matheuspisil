@@ -4,7 +4,7 @@
 <h2>
 <div align="center">
   <a href="https://github.com/matheuspisil">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuspisil&show_icons=true&theme=tokyonight_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuspisil&show_icons=true&theme=onedark_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspisil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 Recém graduado em análise e desenvolvimento de sistemas estou #opentowork! preferencialmente para projetos front-end.<br>
