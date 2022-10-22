@@ -13,7 +13,7 @@ Recém graduado em análise e desenvolvimento de sistemas estou #opentowork! pre
 
 :world_map: links úteis relacionados ao desenvolvedor. 
 
-- :airplane:  <https://www.linkedin.com/in/matheus-pires-78753586/>
+- :airplane:  [LinkedIn](https://www.linkedin.com/in/matheus-pires-78753586/)
 
 - :crescent_moon: <a href="https://loquacious-hummingbird-b4d3e1.netlify.app/">Portfolio</a>
 
