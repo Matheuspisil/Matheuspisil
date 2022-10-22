@@ -2,6 +2,11 @@
 <h1>  Olá, sou Matheus Pires  👋 </h1>
 <hr>
 <h2>
+<div align="center">
+  <a href="https://github.com/matheuspisil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 Recém graduado em análise e desenvolvimento de sistemas estou #opentowork! preferencialmente para projetos front-end.<br>
   
 - :coffee: Atualmente, trabalho no meu portfolio e fazendo freelas.<br>
